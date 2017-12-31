@@ -1,0 +1,118 @@
+Sun Dec 31 17:16:47 +0330 2017
+rtt min/avg/max/mdev = 88.379/89.817/91.255/1.438 ms
+Sun Dec 31 17:17:22 +0330 2017
+rtt min/avg/max/mdev = 92.725/95.401/98.077/2.676 ms
+Sun Dec 31 17:17:59 +0330 2017
+rtt min/avg/max/mdev = 95.169/95.335/95.501/0.166 ms
+Sun Dec 31 17:19:00 +0330 2017
+rtt min/avg/max/mdev = 88.222/90.544/92.867/2.341 ms
+Sun Dec 31 17:19:38 +0330 2017
+rtt min/avg/max/mdev = 89.724/94.771/99.818/5.047 ms
+Sun Dec 31 17:19:58 +0330 2017
+rtt min/avg/max/mdev = 87.941/100.163/112.385/12.222 ms
+Sun Dec 31 17:20:18 +0330 2017
+rtt min/avg/max/mdev = 91.218/95.106/98.994/3.888 ms
+Sun Dec 31 17:20:41 +0330 2017
+rtt min/avg/max/mdev = 92.859/109.601/126.344/16.745 ms
+Sun Dec 31 17:21:04 +0330 2017
+rtt min/avg/max/mdev = 92.700/95.270/97.841/2.588 ms
+Sun Dec 31 17:21:20 +0330 2017
+rtt min/avg/max/mdev = 89.489/92.815/96.141/3.326 ms
+Sun Dec 31 17:21:31 +0330 2017
+rtt min/avg/max/mdev = 87.506/89.057/90.608/1.551 ms
+Sun Dec 31 17:21:51 +0330 2017
+rtt min/avg/max/mdev = 88.697/90.025/91.353/1.328 ms
+Sun Dec 31 17:22:19 +0330 2017
+rtt min/avg/max/mdev = 89.979/93.282/96.586/3.317 ms
+Sun Dec 31 17:22:30 +0330 2017
+rtt min/avg/max/mdev = 90.685/91.649/92.614/1.010 ms
+Sun Dec 31 17:22:50 +0330 2017
+rtt min/avg/max/mdev = 87.636/88.383/89.131/0.804 ms
+Sun Dec 31 17:23:00 +0330 2017
+rtt min/avg/max/mdev = 85.979/91.795/97.611/5.816 ms
+Sun Dec 31 17:23:11 +0330 2017
+rtt min/avg/max/mdev = 88.997/92.171/95.345/3.174 ms
+Sun Dec 31 17:23:32 +0330 2017
+rtt min/avg/max/mdev = 87.603/94.637/101.671/7.034 ms
+Sun Dec 31 17:23:44 +0330 2017
+rtt min/avg/max/mdev = 84.838/86.340/87.843/1.530 ms
+Sun Dec 31 17:23:54 +0330 2017
+rtt min/avg/max/mdev = 83.295/90.228/97.162/6.940 ms
+Sun Dec 31 17:24:05 +0330 2017
+rtt min/avg/max/mdev = 86.406/91.615/96.825/5.218 ms
+Sun Dec 31 17:24:16 +0330 2017
+rtt min/avg/max/mdev = 87.323/88.945/90.568/1.649 ms
+Sun Dec 31 17:24:36 +0330 2017
+rtt min/avg/max/mdev = 91.748/96.930/102.113/5.191 ms
+Sun Dec 31 17:25:00 +0330 2017
+rtt min/avg/max/mdev = 89.303/91.162/93.022/1.883 ms
+Sun Dec 31 17:25:20 +0330 2017
+rtt min/avg/max/mdev = 91.172/99.926/108.681/8.760 ms
+Sun Dec 31 17:25:45 +0330 2017
+rtt min/avg/max/mdev = 88.727/89.405/90.084/0.741 ms
+Sun Dec 31 17:26:07 +0330 2017
+rtt min/avg/max/mdev = 85.629/87.390/89.152/1.786 ms
+Sun Dec 31 17:26:21 +0330 2017
+rtt min/avg/max/mdev = 84.927/100.314/115.701/15.387 ms
+Sun Dec 31 17:26:31 +0330 2017
+rtt min/avg/max/mdev = 82.206/87.157/92.108/4.951 ms
+Sun Dec 31 17:26:51 +0330 2017
+rtt min/avg/max/mdev = 84.915/86.864/88.814/1.971 ms
+Sun Dec 31 17:27:14 +0330 2017
+rtt min/avg/max/mdev = 88.027/90.327/92.627/2.300 ms
+Sun Dec 31 17:27:29 +0330 2017
+rtt min/avg/max/mdev = 86.953/102.109/117.266/15.159 ms
+Sun Dec 31 17:27:48 +0330 2017
+rtt min/avg/max/mdev = 90.463/92.675/94.887/2.212 ms
+Sun Dec 31 17:28:08 +0330 2017
+rtt min/avg/max/mdev = 84.946/85.514/86.083/0.639 ms
+Sun Dec 31 17:28:19 +0330 2017
+rtt min/avg/max/mdev = 91.888/96.339/100.791/4.462 ms
+Sun Dec 31 17:28:38 +0330 2017
+rtt min/avg/max/mdev = 85.912/90.109/94.306/4.197 ms
+Sun Dec 31 17:28:50 +0330 2017
+rtt min/avg/max/mdev = 93.517/101.286/109.056/7.776 ms
+Sun Dec 31 17:29:01 +0330 2017
+rtt min/avg/max/mdev = 85.249/94.555/103.862/9.311 ms
+Sun Dec 31 17:29:20 +0330 2017
+rtt min/avg/max/mdev = 87.533/89.660/91.788/2.148 ms
+Sun Dec 31 17:29:42 +0330 2017
+rtt min/avg/max/mdev = 86.451/87.629/88.808/1.215 ms
+Sun Dec 31 17:30:03 +0330 2017
+rtt min/avg/max/mdev = 87.000/89.100/91.200/2.100 ms
+Sun Dec 31 17:30:25 +0330 2017
+rtt min/avg/max/mdev = 89.280/90.980/92.681/1.727 ms
+Sun Dec 31 17:30:47 +0330 2017
+rtt min/avg/max/mdev = 88.171/94.109/100.048/5.946 ms
+Sun Dec 31 17:31:00 +0330 2017
+rtt min/avg/max/mdev = 84.796/87.458/90.121/2.678 ms
+Sun Dec 31 17:31:11 +0330 2017
+rtt min/avg/max/mdev = 85.080/87.527/89.975/2.465 ms
+Sun Dec 31 17:31:30 +0330 2017
+rtt min/avg/max/mdev = 87.195/90.141/93.087/2.946 ms
+Sun Dec 31 17:31:46 +0330 2017
+rtt min/avg/max/mdev = 90.293/106.472/122.652/16.182 ms
+Sun Dec 31 17:32:05 +0330 2017
+rtt min/avg/max/mdev = 89.358/91.164/92.971/1.831 ms
+Sun Dec 31 17:32:25 +0330 2017
+rtt min/avg/max/mdev = 91.541/98.880/106.219/7.339 ms
+Sun Dec 31 17:32:45 +0330 2017
+rtt min/avg/max/mdev = 90.698/91.464/92.231/0.824 ms
+Sun Dec 31 17:32:55 +0330 2017
+rtt min/avg/max/mdev = 82.569/85.677/88.786/3.122 ms
+Sun Dec 31 17:33:06 +0330 2017
+rtt min/avg/max/mdev = 82.217/85.025/87.833/2.808 ms
+Sun Dec 31 17:33:26 +0330 2017
+rtt min/avg/max/mdev = 86.248/88.235/90.222/1.987 ms
+Sun Dec 31 17:33:36 +0330 2017
+rtt min/avg/max/mdev = 81.967/83.657/85.348/1.715 ms
+Sun Dec 31 17:33:47 +0330 2017
+rtt min/avg/max/mdev = 81.945/83.958/85.972/2.034 ms
+Sun Dec 31 17:34:07 +0330 2017
+rtt min/avg/max/mdev = 90.992/91.083/91.174/0.091 ms
+Sun Dec 31 17:34:26 +0330 2017
+rtt min/avg/max/mdev = 85.396/86.508/87.620/1.112 ms
+Sun Dec 31 17:34:48 +0330 2017
+rtt min/avg/max/mdev = 85.511/85.862/86.214/0.457 ms
+Sun Dec 31 17:50:50 +0330 2017
+rtt min/avg/max/mdev = 89.929/90.172/90.416/0.386 ms

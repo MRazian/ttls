@@ -1,0 +1,11 @@
+In order to run this script every 30 minutes (or as per your requirements), you need to install a script as cron job:
+$ chmod +x /path/to/monitorHost
+
+Install the monitorHost script as crontab using the editor:
+$ crontab -e
+
+Append the following cronjob entry:
+# Monitor remote host every 30 minutes using monitorHost
+30 * * * * /home/vivek/bin/monitorHost
+
+Save and close the file.
